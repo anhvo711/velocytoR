@@ -1,0 +1,23 @@
+.next{
+  background-color: #605ca8;
+  color: white ;
+  -webkit-box-sizing: border-box;
+     -moz-box-sizing: border-box;
+          box-sizing: border-box;
+  -webkit-transition-property: all;
+          transition-property: all;
+  -webkit-transition-duration: .3s;
+          transition-duration: .3s;
+  font-size: 20px;
+  text-align: center;
+  height: 40px;
+  margin-top: 2vh;
+}
+
+html, body{
+  font-size: 16px;
+}
+
+hr{
+ border-top: 1px solid #9d9d9d ;
+}
